@@ -7,13 +7,13 @@ for i in range(5):
     arr.append(i)  # Add the number to the list
 
 # Print the list of numbers entered by the user
-print("The array is: ", arr)
+print("The Array is: ", arr)
 
 # Calculate the average by dividing the sum of the list by its length
 average = sum(arr) / len(arr)
 
 # Print the average of the numbers
-print("The average is: ", average)
+print("The Average is: ", average)
 
 # Indicate the end of the program
 print("end of program")

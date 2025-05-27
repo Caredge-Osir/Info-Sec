@@ -14,4 +14,4 @@ def compute_value():
 print(compute_value())
 
 # Indicate the end of the program
-print("End of program")
+print("End of Program")
