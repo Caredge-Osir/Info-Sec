@@ -1,0 +1,21 @@
+# Ignore all .pyc files
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled models or sensitive files
+model.pkl
+secrets.txt
